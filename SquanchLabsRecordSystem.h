@@ -7,6 +7,12 @@
 #include <QApplication>
 #include <QWidget>
 #include <iostream>
-#include "PlusMinus.h"
+#include "MenuTypes/SimpleMenu.h"
+#include "MenuTypes/AdditionalMenu.h"
+#include "MenuTypes/ToolBar.h"
+#include "MenuTypes/Checkable.h"
+#include "NumCounterApp/Skeleton.h"
+
+
 
 

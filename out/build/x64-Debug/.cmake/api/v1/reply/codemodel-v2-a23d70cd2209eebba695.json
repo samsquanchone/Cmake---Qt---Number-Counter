@@ -1,0 +1,77 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SquanchLabsRecordSystem",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SquanchLabsRecordSystem::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SquanchLabsRecordSystem-Debug-dfe83bd2094081e675dc.json",
+					"name" : "SquanchLabsRecordSystem",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SquanchLabsRecordSystem_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SquanchLabsRecordSystem_autogen-Debug-99d38f17697ab461ac3b.json",
+					"name" : "SquanchLabsRecordSystem_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SquanchLabsRecordSystem_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SquanchLabsRecordSystem_autogen_timestamp_deps-Debug-806aa3841c08c7330c16.json",
+					"name" : "SquanchLabsRecordSystem_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/09sam/OneDrive/Desktop/C++ Learning/QT/SquanchLabsRecordSystem/SquanchLabsRecordSystem/out/build/x64-Debug",
+		"source" : "C:/Users/09sam/OneDrive/Desktop/C++ Learning/QT/SquanchLabsRecordSystem/SquanchLabsRecordSystem"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

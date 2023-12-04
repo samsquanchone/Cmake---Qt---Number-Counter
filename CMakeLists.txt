@@ -37,6 +37,10 @@ endif()
 # Find the QtWidgets library
 find_package(Qt6 REQUIRED COMPONENTS Widgets)
 
-add_executable (SquanchLabsRecordSystem SquanchLabsRecordSystem.cpp QuitButton.cpp PlusMinus.cpp)
+
+
+add_executable (SquanchLabsRecordSystem SquanchLabsRecordSystem.cpp "Buttons/QuitButton.cpp" "NumCounterApp/PlusMinus.cpp" "MenuTypes/SimpleMenu.cpp" "MenuTypes/AdditionalMenu.cpp" resources.qrc "MenuTypes/ToolBar.cpp"  "MenuTypes/Checkable.h" "MenuTypes/Checkable.cpp" "NumCounterApp/Skeleton.cpp" "NumCounterApp/Skeleton.h")
+
+
 
 target_link_libraries(SquanchLabsRecordSystem Qt6::Widgets)

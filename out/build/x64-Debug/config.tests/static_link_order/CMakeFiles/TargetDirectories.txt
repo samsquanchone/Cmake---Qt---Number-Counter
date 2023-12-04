@@ -1,0 +1,5 @@
+C:/Users/09sam/OneDrive/Desktop/C++ Learning/QT/SquanchLabsRecordSystem/SquanchLabsRecordSystem/out/build/x64-Debug/config.tests/static_link_order/CMakeFiles/objLib.dir
+C:/Users/09sam/OneDrive/Desktop/C++ Learning/QT/SquanchLabsRecordSystem/SquanchLabsRecordSystem/out/build/x64-Debug/config.tests/static_link_order/CMakeFiles/staticLib.dir
+C:/Users/09sam/OneDrive/Desktop/C++ Learning/QT/SquanchLabsRecordSystem/SquanchLabsRecordSystem/out/build/x64-Debug/config.tests/static_link_order/CMakeFiles/edit_cache.dir
+C:/Users/09sam/OneDrive/Desktop/C++ Learning/QT/SquanchLabsRecordSystem/SquanchLabsRecordSystem/out/build/x64-Debug/config.tests/static_link_order/CMakeFiles/static_link_order_test.dir
+C:/Users/09sam/OneDrive/Desktop/C++ Learning/QT/SquanchLabsRecordSystem/SquanchLabsRecordSystem/out/build/x64-Debug/config.tests/static_link_order/CMakeFiles/rebuild_cache.dir

@@ -10,7 +10,17 @@ int main(int argc, char* argv[])
 	QApplication app(argc, argv);
 
 
-	PlusMinus window;
+	//PlusMinus window;
+
+	//SimpleMenu window;
+
+	//AdditionalMenu window;
+
+//	ToolBar window;
+
+	//Checkable window;
+
+	Skeleton window;
 
 	
 	window.resize(250, 150);
